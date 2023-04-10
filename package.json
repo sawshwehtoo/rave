@@ -1,0 +1,12 @@
+{
+	"name": "rave",
+	"version": "1.0.0",
+	"scripts": {
+		"test": "node test.js",
+		"start": "node --watch index.js"
+	},
+	"devDependencies": {
+		"eslint": "^8.38.0",
+		"webpack": "^5.78.0"
+	}
+}
